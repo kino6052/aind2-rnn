@@ -1,10 +1,45 @@
 -------------------
 input chars = 
-minates the whole of her sex. it was not that he felt any emotion akin to love for irene adler. all "
+his eyes she eclipses and predominates the whole of her sex it was not that he felt any emotion akin"
 predicted chars = 
-the sound the sound the sound the sound the sound the sound the sound the sound the sound the sound "
+g the sand and the said has and and and the said has and and and the said has and and and the said h"
 -------------------
 input chars = 
-ving machine that the world has seen, but as a lover he would have placed himself in a false positio"
+is eyes she eclipses and predominates the whole of her sex it was not that he felt any emotion akin "
 predicted chars = 
-n the sound the sound the sound the sound the sound the sound the sound the sound the sound the soun"
+the sand and the said has and and and the said has and and and the said has and and and the said has"
+-------------------
+input chars = 
+s eyes she eclipses and predominates the whole of her sex it was not that he felt any emotion akin t"
+predicted chars = 
+he sand and the said has and and and the said has and and and the said has and and and the said has "
+-------------------
+input chars = 
+ eyes she eclipses and predominates the whole of her sex it was not that he felt any emotion akin to"
+predicted chars = 
+ the said has and and and the said has and and and the said has and and and the said has and and and"
+-------------------
+input chars = 
+eyes she eclipses and predominates the whole of her sex it was not that he felt any emotion akin to "
+predicted chars = 
+the said has and and and the said has and and and the said has and and and the said has and and and "
+-------------------
+input chars = 
+yes she eclipses and predominates the whole of her sex it was not that he felt any emotion akin to l"
+predicted chars = 
+eat i have and and and and the said has and and and the said has and and and the said has and and an"
+-------------------
+input chars = 
+es she eclipses and predominates the whole of her sex it was not that he felt any emotion akin to lo"
+predicted chars = 
+ok and the said has and and and the said has and and and the said has and and and the said has and a"
+-------------------
+input chars = 
+s she eclipses and predominates the whole of her sex it was not that he felt any emotion akin to lov"
+predicted chars = 
+e and the sand and the said has and and and the said has and and and the said has and and and the sa"
+-------------------
+input chars = 
+ she eclipses and predominates the whole of her sex it was not that he felt any emotion akin to love"
+predicted chars = 
+ and the sand and the said has and and and the said has and and and the said has and and and the sai"
