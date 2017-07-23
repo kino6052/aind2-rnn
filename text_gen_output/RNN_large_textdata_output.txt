@@ -1,45 +1,45 @@
 -------------------
 input chars = 
-his eyes she eclipses and predominates the whole of her sex it was not that he felt any emotion akin"
+his eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion aki"
 predicted chars = 
-g the sand and the said has and and and the said has and and and the said has and and and the said h"
+ng the sere the sore the sore the sore the sore the sore the sore the sore the sore the sore the sor"
 -------------------
 input chars = 
-is eyes she eclipses and predominates the whole of her sex it was not that he felt any emotion akin "
+is eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin"
 predicted chars = 
-the sand and the said has and and and the said has and and and the said has and and and the said has"
+g the sere the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore"
 -------------------
 input chars = 
-s eyes she eclipses and predominates the whole of her sex it was not that he felt any emotion akin t"
+s eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin "
 predicted chars = 
-he sand and the said has and and and the said has and and and the said has and and and the said has "
+the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore t"
 -------------------
 input chars = 
- eyes she eclipses and predominates the whole of her sex it was not that he felt any emotion akin to"
+ eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin t"
 predicted chars = 
- the said has and and and the said has and and and the said has and and and the said has and and and"
+he sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore th"
 -------------------
 input chars = 
-eyes she eclipses and predominates the whole of her sex it was not that he felt any emotion akin to "
+eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to"
 predicted chars = 
-the said has and and and the said has and and and the said has and and and the said has and and and "
+ the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore "
 -------------------
 input chars = 
-yes she eclipses and predominates the whole of her sex it was not that he felt any emotion akin to l"
+yes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to "
 predicted chars = 
-eat i have and and and and the said has and and and the said has and and and the said has and and an"
+the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore t"
 -------------------
 input chars = 
-es she eclipses and predominates the whole of her sex it was not that he felt any emotion akin to lo"
+es she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to l"
 predicted chars = 
-ok and the said has and and and the said has and and and the said has and and and the said has and a"
+eat the sere the sore the sore the sore the sore the sore the sore the sore the sore the sore the so"
 -------------------
 input chars = 
-s she eclipses and predominates the whole of her sex it was not that he felt any emotion akin to lov"
+s she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to lo"
 predicted chars = 
-e and the sand and the said has and and and the said has and and and the said has and and and the sa"
+und the seat the sere the sore the sore the sore the sore the sore the sore the sore the sore the so"
 -------------------
 input chars = 
- she eclipses and predominates the whole of her sex it was not that he felt any emotion akin to love"
+ she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to lov"
 predicted chars = 
- and the sand and the said has and and and the said has and and and the said has and and and the sai"
+e the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore"

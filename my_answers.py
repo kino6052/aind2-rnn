@@ -31,7 +31,7 @@ def window_transform_series(series, window_size):
 # TODO: build an RNN to perform regression on our time series input/output data
 def build_part1_RNN(window_size):
     model = Sequential()
-    model.add(LSTM(32,
+    model.add(LSTM(5,
                input_shape=(window_size, 1)))  # returns a sequence of vectors of dimension 32
     # now model.output_shape == (None, 32)
     # note: `None` is the batch dimension.
@@ -48,10 +48,9 @@ def build_part1_RNN(window_size):
 
 ### TODO: return the text input with only ascii lowercase and the punctuation given below included.
 def cleaned_text(text):
-    punctuation = ['!', ',', '.', ':', ';', '?', '\xa0', '¢', '¨', '©', 'ã',  '-', '"', '$', '%', '&', "'", '(', ')', '*', '/', '@', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
     processed_text = ""
     for c in text:
-        if c in punctuation:
+        if c not in "abcdefghijklmnopqrstuvwxyz!,.:;? ":
             pass
         else:
             processed_text += c
@@ -59,24 +58,18 @@ def cleaned_text(text):
 
 ### TODO: fill out the function below that transforms the input text and window-size into a set of input/output pairs for use with our RNN model
 def window_transform_text(text, window_size, step_size):
+    import math
     # containers for input/output pairs
     inputs = []
     outputs = []
 
     s = text
 
-    for i in range(int((len(text) - window_size)/step_size)): # Sliding Window
-        try:
-            i_step = i * step_size
-            inputs.append(s[i_step:i_step+window_size])
-            outputs.append(s[i_step+window_size])
-        except Exception as e:
-            pass
-    # reshape each 
-    # inputs = np.asarray(inputs)
-    # inputs.shape = (np.shape(inputs)[0:2])
-    # outputs = np.asarray(outputs)
-    # outputs.shape = (len(outputs),1)
+    for i in range(int((len(s)) / step_size)):  # Sliding Window
+        i_step = i * step_size
+        if i_step + window_size < len(s):
+            inputs.append(s[i_step:i_step + window_size])
+            outputs.append(s[i_step + window_size])
 
     return inputs,outputs
 
